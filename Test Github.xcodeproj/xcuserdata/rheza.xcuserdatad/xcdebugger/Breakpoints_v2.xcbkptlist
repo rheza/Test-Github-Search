@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3641C2B6-C881-418D-8760-9F40EBF6E51C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FDAC2E4C-F57B-4D63-91A5-DEF50D30047F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Test Github/UserCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "UserCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "FDAC2E4C-F57B-4D63-91A5-DEF50D30047F - dabb671f9881fa97"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Test_Github.UserCell.usernameLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Test Github"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rheza/Documents/Test%20Github/Test%20Github/UserCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "FDAC2E4C-F57B-4D63-91A5-DEF50D30047F - f637c6b749a4e3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Test_Github.UserCell.usernameLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Test Github"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rheza/Documents/Test%20Github/Test%20Github/UserCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "FDAC2E4C-F57B-4D63-91A5-DEF50D30047F - e8b6f1746db62014"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Test_Github.UserCell.usernameLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Test Github"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rheza/Documents/Test%20Github/Test%20Github/UserCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  uuid = "FDAC2E4C-F57B-4D63-91A5-DEF50D30047F - 51629230ae17a511"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Test_Github.UserCell.usernameLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Test Github"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rheza/Documents/Test%20Github/Test%20Github/UserCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "FDAC2E4C-F57B-4D63-91A5-DEF50D30047F - 21ce29ddf50fc954"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Test_Github.UserCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; Test_Github.UserCell"
+                  moduleName = "Test Github"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rheza/Documents/Test%20Github/Test%20Github/UserCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "291">
+               </Location>
+               <Location
+                  uuid = "FDAC2E4C-F57B-4D63-91A5-DEF50D30047F - 47a5cd8e00692298"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Test_Github.UserCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Test_Github.UserCell&gt;"
+                  moduleName = "Test Github"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rheza/Documents/Test%20Github/Test%20Github/UserCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "223">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
