@@ -66,6 +66,28 @@
                                             <outlet property="usernameLabel" destination="yaD-N5-pox" id="hNu-UB-aXH"/>
                                         </connections>
                                     </tableViewCell>
+                                    <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" reuseIdentifier="EmptyCell" id="rdf-Q3-fFJ" customClass="EmptyCell" customModule="Test_Github" customModuleProvider="target">
+                                        <rect key="frame" x="0.0" y="108" width="414" height="43.5"/>
+                                        <autoresizingMask key="autoresizingMask"/>
+                                        <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="rdf-Q3-fFJ" id="Dgr-ro-vvz">
+                                            <rect key="frame" x="0.0" y="0.0" width="414" height="43.5"/>
+                                            <autoresizingMask key="autoresizingMask"/>
+                                            <subviews>
+                                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="No Result Found" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Vhe-e3-9Nx">
+                                                    <rect key="frame" x="22" y="11.5" width="370" height="21"/>
+                                                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                                    <nil key="textColor"/>
+                                                    <nil key="highlightedColor"/>
+                                                </label>
+                                            </subviews>
+                                            <constraints>
+                                                <constraint firstItem="Vhe-e3-9Nx" firstAttribute="centerX" secondItem="Dgr-ro-vvz" secondAttribute="centerX" id="TbH-CL-W2V"/>
+                                                <constraint firstItem="Vhe-e3-9Nx" firstAttribute="leading" secondItem="Dgr-ro-vvz" secondAttribute="leadingMargin" constant="2" id="ZUo-eh-tCQ"/>
+                                                <constraint firstItem="Vhe-e3-9Nx" firstAttribute="centerY" secondItem="Dgr-ro-vvz" secondAttribute="centerY" id="caH-DI-9q7"/>
+                                                <constraint firstAttribute="trailingMargin" secondItem="Vhe-e3-9Nx" secondAttribute="trailing" constant="2" id="qVa-wG-hCn"/>
+                                            </constraints>
+                                        </tableViewCellContentView>
+                                    </tableViewCell>
                                 </prototypes>
                                 <connections>
                                     <outlet property="dataSource" destination="BYZ-38-t0r" id="9Zp-HP-XhR"/>
